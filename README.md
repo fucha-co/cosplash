@@ -1,2 +1,0 @@
-# cosplash
-cosplash.com
